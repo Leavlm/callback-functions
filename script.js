@@ -2,4 +2,4 @@ function myFunction(a,b){
     return a + b;
 }
 
-myFunction(1,2)
+myFunction(2,3)
